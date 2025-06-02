@@ -79,15 +79,15 @@ Estoy disponible inmediatamente, ya sea para prácticas profesionales o un puest
 
 ## 📊 GitHub Stats:
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=D13G0ARJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D13G0ARJ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🏆 GitHub Trophies:
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=D13G0ARJ&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
