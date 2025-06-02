@@ -98,3 +98,5 @@ Estoy disponible inmediatamente, ya sea para prácticas profesionales o un puest
 ---
 
 ## 📈 Repo Más Contribuido:
+
+[![D13G0ARJ/horario-universidad-](https://img.shields.io/badge/Repositorio%20Principal-horario--universidad--D13G0ARJ-blueviolet?style=for-the-badge&logo=github)](https://github.com/D13G0ARJ/horario-universidad-)
