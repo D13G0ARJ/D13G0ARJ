@@ -81,6 +81,8 @@ Estoy disponible inmediatamente, ya sea para prácticas profesionales o un puest
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=D13G0ARJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=D13G0ARJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D13G0ARJ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
