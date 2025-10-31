@@ -2,7 +2,7 @@
 
 ## Sobre Mí:
 
-Soy un programador joven y apasionado por la tecnología, actualmente en el 7º semestre de Ingeniería de Sistemas. Con 20 años, he tenido la oportunidad de adquirir una formación amplia y práctica en áreas clave como desarrollo web, Python, Inteligencia Artificial y ciencia de datos. A lo largo de mi formación, he completado cursos en plataformas prestigiosas como IBM Cognitive Class y Telefonica, donde no solo fortalecí mis habilidades técnicas, sino también mi capacidad para analizar y resolver problemas reales.
+Soy un programador joven y apasionado por la tecnología, actualmente en el 8º semestre de Ingeniería de Sistemas. Con 21 años, he tenido la oportunidad de adquirir una formación amplia y práctica en áreas clave como desarrollo web, Python, Inteligencia Artificial y ciencia de datos. A lo largo de mi formación, he completado cursos en plataformas prestigiosas como IBM Cognitive Class y Telefonica, donde no solo fortalecí mis habilidades técnicas, sino también mi capacidad para analizar y resolver problemas reales.
 
 En particular, me he enfocado en proyectos de análisis de datos y ciencia de datos, lo que me ha permitido dominar herramientas como Pandas, NumPy y Matplotlib, y desarrollar una sólida comprensión de cómo extraer, limpiar y analizar grandes volúmenes de datos para obtener insights valiosos. Realicé cursos como:
 
