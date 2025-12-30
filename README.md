@@ -27,13 +27,12 @@
 
 ### 👨‍💻 Perfil Profesional
 
-Soy un **Ingeniero de Software** con visión estratégica, especializado en el desarrollo de aplicaciones web de alto rendimiento. Mi experiencia se centra en construir arquitecturas escalables que integran **Inteligencia Artificial y Ciencia de Datos** para resolver problemas de negocio complejos.
+Soy un **Ingeniero de Software** con visión estratégica, especializado en el desarrollo de aplicaciones web de alto rendimiento. Mi experiencia se centra en construir arquitecturas escalables que integran **Inteligencia Artificial y Ciencia de Datos**.
 
-Me caracterizo por escribir código limpio y eficiente, transformando requerimientos difíciles en soluciones tecnológicas robustas.
-
-* 🔭 **Enfoque:** Desarrollo Full Stack, Arquitectura de Software y Automatización.
-* 💡 **Core Stack:** Laravel (PHP), Python (AI/Data), React & SQL.
-* 🎯 **Objetivo:** Aportar valor inmediato a través de software de calidad y escalable.
+**Lo que aporto a tu equipo:**
+* 🌍 **Experiencia Remota:** Cuento con una sólida trayectoria trabajando en entornos 100% remotos, demostrando autodisciplina, comunicación asíncrona efectiva y gestión proactiva del tiempo.
+* 🚀 **Gestión Ágil & Jira:** Domino el ciclo de vida de desarrollo bajo metodologías ágiles. Soy experto gestionando flujos de trabajo en **Jira**, asegurando el seguimiento preciso de tickets y el cumplimiento de plazos.
+* 🧩 **Desarrollo Modular:** Me especializo en la arquitectura basada en componentes y módulos, lo que facilita el mantenimiento, la escalabilidad y la integración limpia de nuevas funcionalidades.
 
 ---
 
@@ -45,9 +44,9 @@ Me caracterizo por escribir código limpio y eficiente, transformando requerimie
 |:---:|:---:|
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
 
-| **IA & Ciencia de Datos** | **Infraestructura & DB** |
+| **IA & Ciencia de Datos** | **DevOps & Gestión** |
 |:---:|:---:|
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 
 </div>
 
@@ -77,7 +76,3 @@ Esta gráfica refleja mi actividad reciente en proyectos públicos y privados.
 </div>
 
 ---
-
-<div align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
-</div>
