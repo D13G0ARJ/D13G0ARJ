@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>Hello 👋, I'm Diego Rodríguez</h1>
-  <h3>🚀 Full Stack Developer | AI Solutions & Data Science Specialist</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B,+I'm+Diego+Rodr%C3%ADguez;Full+Stack+Developer;AI+%26+Data+Science+Specialist;Laravel+%7C+Python+%7C+React" alt="Typing SVG" />
   
   <p>
     <a href="https://www.linkedin.com/in/diego-rodr%C3%ADguez-218929179/">
@@ -20,6 +19,7 @@
   <p>
     <img src="https://img.shields.io/github/followers/D13G0ARJ?label=Followers&style=social" alt="Followers">
     <img src="https://img.shields.io/github/stars/D13G0ARJ?label=Total%20Stars&style=social" alt="Stars">
+    <img src="https://komarev.com/ghpvc/?username=D13G0ARJ&style=flat-square&label=Views&color=blue" alt="Profile Views" />
   </p>
 </div>
 
