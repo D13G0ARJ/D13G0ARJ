@@ -45,30 +45,29 @@ Actualmente, aporto valor como desarrollador en **Grupounifema** y realizo proye
 
 ### 📊 Actividad y Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D13G0ARJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D13G0ARJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D13G0ARJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Diego's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D13G0ARJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D13G0ARJ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D13G0ARJ&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/D13G0ARJ/D13G0ARJ/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github.com/D13G0ARJ/D13G0ARJ/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
 ### 🏆 Logros
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=D13G0ARJ&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=D13G0ARJ&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
   </a>
-</div>
+</p>
 
 ---
 
