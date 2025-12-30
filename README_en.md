@@ -27,13 +27,12 @@
 
 ### 👨‍💻 Professional Profile
 
-I am a strategic **Software Engineer** specializing in high-performance web application development. My expertise lies in building scalable architectures that integrate **Artificial Intelligence and Data Science** to solve complex business problems.
+I am a strategic **Software Engineer** specializing in high-performance web application development. My expertise lies in building scalable architectures that integrate **Artificial Intelligence and Data Science**.
 
-I pride myself on writing clean, efficient code and transforming challenging requirements into robust technological solutions.
-
-* 🔭 **Focus:** Full Stack Development, Software Architecture, and Automation.
-* 💡 **Core Stack:** Laravel (PHP), Python (AI/Data), React & SQL.
-* 🎯 **Goal:** To deliver immediate value through quality, scalable software.
+**Value I bring to your team:**
+* 🌍 **Remote Work Expertise:** Proven track record in 100% remote environments, demonstrating self-discipline, effective asynchronous communication, and proactive time management.
+* 🚀 **Agile & Jira Management:** Proficient in the software development lifecycle using Agile methodologies. Expert in managing workflows via **Jira**, ensuring precise ticket tracking and timely delivery.
+* 🧩 **Modular Development:** Specialized in component-based and modular architecture, facilitating maintenance, scalability, and clean integration of new features.
 
 ---
 
@@ -45,9 +44,9 @@ I pride myself on writing clean, efficient code and transforming challenging req
 |:---:|:---:|
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
 
-| **AI & Data Science** | **Infrastructure & DB** |
+| **AI & Data Science** | **DevOps & Management** |
 |:---:|:---:|
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 
 </div>
 
