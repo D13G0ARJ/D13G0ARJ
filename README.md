@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="./README_EN.md">
+    <img src="https://img.shields.io/badge/Read%20in%20English-US?style=for-the-badge&logo=google-translate&logoColor=white&color=blue" alt="Read in English">
+  </a>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B,+soy+Diego+Rodr%C3%ADguez;Full+Stack+Developer;AI+%26+Data+Science+Specialist;Laravel+%7C+Python+%7C+React" alt="Typing SVG" />
   
@@ -79,6 +85,17 @@ Soy un **Ingeniero de Software** con visión estratégica, especializado en el d
 
 ---
 
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D13G0ARJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D13G0ARJ&layout=compact&theme=dark" alt="Most Used Languages" height="170px" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D13G0ARJ&theme=dark" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 📈 Actividad de Contribuciones
 
 Esta gráfica refleja mi actividad reciente en proyectos públicos y privados.
@@ -87,10 +104,6 @@ Esta gráfica refleja mi actividad reciente en proyectos públicos y privados.
   <img src="https://raw.githubusercontent.com/D13G0ARJ/D13G0ARJ/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D13G0ARJ&theme=tokyonight&hide_border=true&card_height=100" alt="GitHub Streak" />
-</div>
 
 ---
 
