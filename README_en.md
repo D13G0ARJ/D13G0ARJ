@@ -86,6 +86,17 @@ I am a strategic **Software Engineer** specializing in high-performance web appl
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D13G0ARJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D13G0ARJ&layout=compact&theme=dark" alt="Most Used Languages" height="170px" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D13G0ARJ&theme=dark" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 📈 Contributions & Activity
 
 This graph reflects my recent activity across public and private projects.
@@ -94,10 +105,7 @@ This graph reflects my recent activity across public and private projects.
   <img src="https://raw.githubusercontent.com/D13G0ARJ/D13G0ARJ/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D13G0ARJ&theme=tokyonight&hide_border=true&card_height=100" alt="GitHub Streak" />
-</div>
+
 
 ---
 
