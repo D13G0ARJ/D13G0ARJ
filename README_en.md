@@ -11,6 +11,9 @@
     <a href="https://www.linkedin.com/in/diego-rodr%C3%ADguez-218929179/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <a href="https://diego-rodriguez-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="mailto:rodrijime34@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
@@ -104,7 +107,6 @@ This graph reflects my recent activity across public and private projects.
 <div align="center">
   <img src="https://raw.githubusercontent.com/D13G0ARJ/D13G0ARJ/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
-
 
 
 ---
